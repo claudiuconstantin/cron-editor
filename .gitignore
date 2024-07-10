@@ -37,3 +37,9 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+# Cache
+/.angular
+
+# Projects' node_modules
+/projects/*/node_modules

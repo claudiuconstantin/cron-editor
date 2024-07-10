@@ -1,6 +1,6 @@
 {
   "$schema": "../../node_modules/ng-packagr/ng-package.schema.json",
-  "dest": "../../dist/cron-editor",
+  "dest": "../../dist/cron-editor-2",
   "lib": {
     "entryFile": "src/public_api.ts"
   }

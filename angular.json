@@ -39,12 +39,12 @@
               "optimization": true,
               "outputHashing": "all",
               "sourceMap": false,
-              "extractCss": true,
               "namedChunks": false,
               "aot": true,
               "extractLicenses": true,
               "vendorChunk": false,
               "buildOptimizer": true,
+
               "budgets": [
                 {
                   "type": "initial",
@@ -131,7 +131,7 @@
         }
       }
     },
-    "cron-editor": {
+    "cron-editor-2": {
       "root": "projects/cron-editor",
       "sourceRoot": "projects/cron-editor/src",
       "projectType": "library",
@@ -167,5 +167,7 @@
       }
     }
   },
-  "defaultProject": "cron-editor-app"
+  "cli": {
+    "analytics": "a09ba529-5b16-4314-a201-555e30108c17"
+  }
 }

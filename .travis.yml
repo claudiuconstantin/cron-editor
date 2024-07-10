@@ -17,7 +17,7 @@ install:
 
 script:
   - yarn lint
-  - yarn run build --base-href https://claudiuconstantin.github.io/cron-editor/
+  - yarn run build --base-href https://mustafapsd.github.io/cron-editor/
 deploy:
   provider: pages
   skip_cleanup: true
